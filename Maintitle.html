@@ -1,62 +1,52 @@
 <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Saint Horse Gang</title>
+  <link rel="stylesheet" href="csslasite.css">
+</head>
+<body>
+  <header>
+    <div id="logo" onclick="slowScroll('#top')">
+      <span>Saint Horse Gang</span>
+    </div>
+    <div id="about">
+     
+      <a href="#" onclick="slowScroll('#overview')" title="Members">Members</a>
+      <a href="#" onclick="slowScroll('#contacts')" title="Contacts">Contacts</a>
+      <a href="#" onclick="slowScroll('#faq')" title="Music/Albums">Music/Albums</a>
+    </div>
+  </header>
 
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title></title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="">
-        <style>
-            
-        
-            body {
-                
-             background: #c7b39b url(https://img.freepik.com/free-photo/wavy-layers-black-paper-background_23-2148629456.jpg?size=626&ext=jpg) no-repeat center;
-             background-attachment: fixed;
-             -webkit-background-size: cover;
-             -moz-background-size: cover;
-             -o-background-size: cover;
-             background-size: cover; 
-             color: firebrick;
-             position:absolute;
-             width:100%;
-             
-            
-            
-             
-            
-            }
+  <div id="top">
+    <h1>Welcome</h1>
+    <h3>Cows are snitches</h3>
+  </div>
+  <div id="main">
+    <div class="intro">
+      <h1>Our story</h1>
+       <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum quisquam sit quibusdam nostrum recusandae facilis fugiat eos dignissimos dolorum aspernatur molestiae corporis modi doloremque neque quae, pariatur similique beatae! Veniam ad, tenetur mollitia deleniti dolore nostrum,
+          culpa in rerum dolorum, ut quibusdam molestiae laborum ex doloremque nulla?</span>
+          <img src="https://i.pinimg.com/originals/90/fe/b7/90feb73a1ae72b0298c005420b045e49.jpg" alt="">
+          
+    </div>
+  </div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script>
+    function slowScroll(id) {
+      $('html, body').animate({
+        scrollTop: $(id).offset().top
+      }, 500);
+    }
 
-            .Denumirea {
-                font-size: 100px;
-                
-                
-                
-               
-
-
-
-
-
-            }
-        </style>
-    </head>
-    <body>
-       <div class="Denumirea">
-       <p align="center">Welcome to our site</P>
-       <br>
-        
-
-
-
-
-
-
-       </div>
-
-        
-        <script src="" async defer>sc</script>
-    </body>
-</html>
+    $(document).on("scroll", function () {
+      if($(window).scrollTop() === 0)
+        $("header").removeClass("fixed");
+      else
+        $("header").attr("class", "fixed");
+    });
+  </script>
+  </body>
+  </html>
