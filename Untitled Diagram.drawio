@@ -1,1 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T22:59:03.395Z" agent="5.0 (Windows)" etag="1yQidoMW_v8ol4Th_vWd" version="16.2.7" type="github"><diagram id="9ELr1f6BP00oIqJa1FFK" name="Page-1">5VnZcpswFP0aHtsxu/1ok6TpTN2kk840fVRAgFLB9QjhpV9fCYRZRJZ24tjjPlk6SOJyztXRBRt2kG0/MbRKlxBhaliTaGvYF4ZlWVPHET8S2dWI6cwUkjASKawF7shvrMCJQksS4aI3kANQTlZ9MIQ8xyHvYYgx2PSHxUD7d12hBGvAXYiojv4gEU9rdGr5LX6NSZI2dza9WX0lQ81g9SRFiiLYdCD70rADBsDrVrYNMJXsNbzU866euLoPjOGcv2YCzIN4Ob35trzPM//rMrtC1s0Htcoa0VI9sAqW7xoGNinh+G6FQtnfCJkNe5HyjIqeKZqoWNW8x2SLxa0WakXMON4+Gaq5J0CkDoYMc7YTQ9QE21ecqayxPdXfdCRQUNphv8GQEj3Zr9zyIhqKmr+gyddYwZFIE9UFxlNIIEf0skUXDMo8koxcTESvHfMFYKW4e8Sc71TOo5JDn1m8JfxeTv/oqt7PzpWLrVq56uxUp45TBvc89eJZoGQhfuaZrXGJGKaIk3V//THC1dRbIOLOe2kd3+1J67sDzThiCeZq1kC2fRj/rqSlJXxg2HPDDVYMHkUiF6L5IPekGyzET8Flwp/AlrC8/pawXH1LuLORPbEH33xT2C97R38PvEDbMVnyDkWSo5F0jVFE8kSAOcqwRpl4eN7nReQg/MIBUGACySGX7hITSgcQoiTJRTcUZGGBLySVRBxlc3UhI1FUWdOYEH2p3sLEJwMtRkzcG5HCPpQUribFvBJh/YCYaDzI2CMco5Ly81XFnw5UmR5ZldnpuYg9G5Qfps6RbY957cFY8jSWbkt5qqK9jYhA2Bm7ybBuGCsJzbHENZ1DadJkRUeUioXi7MUYWrtzbGs39VrkP5HC9/wTk0KveE7O0F3XfZ2hH6wsNPVi5ORY8ievPPYOx5J+7H2Wp94GShrJkk2ee2iDC6hOQBLL4KGsQq5XzwvBSPW2W4/IUNIxhQlPUXe9DNYShVzOCBnINc7VOJzBNxbXHzlQ/Xd1Dl9Xu9EPNeKdvaEPdfFN3aveWZfp6XnV8EV/OlKij77oH64a1F9k5nnU9SA9h+Wn7DPOZG/wqe/oDmPpFft3cQIU1Ukg9YgBJHNnK4k7GW6bEXMx30YS0W3/3Kg/37b/EdmXfwA=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-17T23:02:04.688Z" agent="5.0 (Windows)" etag="BGCO7APKdWNgafBSEd_o" version="16.2.7" type="github">
+  <diagram id="9ELr1f6BP00oIqJa1FFK" name="Page-1">
+    <mxGraphModel dx="4890" dy="3303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oACfM8OQMXnm7NMmFa2O-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="370" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oACfM8OQMXnm7NMmFa2O-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="oACfM8OQMXnm7NMmFa2O-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="475" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oACfM8OQMXnm7NMmFa2O-2" value="C:\projects\boot\Bootstrap" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="260" y="250" width="590" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="oACfM8OQMXnm7NMmFa2O-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="250" width="590" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oACfM8OQMXnm7NMmFa2O-4" value="Heading name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="300" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oACfM8OQMXnm7NMmFa2O-5" value="A navbar by default" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="780" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oACfM8OQMXnm7NMmFa2O-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="310" width="330" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="oACfM8OQMXnm7NMmFa2O-6" value="Put a name here" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="475" y="360" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="oACfM8OQMXnm7NMmFa2O-10" value="Spaces here" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="300" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oACfM8OQMXnm7NMmFa2O-13" value="Spaces here" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="767" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oACfM8OQMXnm7NMmFa2O-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="555" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oACfM8OQMXnm7NMmFa2O-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="700" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oACfM8OQMXnm7NMmFa2O-16" value="It would be awesome if you will insert some images here that would move on scroll" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="470" y="570" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oACfM8OQMXnm7NMmFa2O-17" value="Insert a image here" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="470" y="715" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oACfM8OQMXnm7NMmFa2O-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="810" width="590" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oACfM8OQMXnm7NMmFa2O-19" value="And insert a image here too" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="465" y="770" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oACfM8OQMXnm7NMmFa2O-20" value="Thats the footer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="500" y="815" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WIFTYRgHfktYTLX4cRRy-2" value="&lt;div&gt;Background image here&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="-35" width="590" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="WIFTYRgHfktYTLX4cRRy-3" value="Back button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="-35" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WIFTYRgHfktYTLX4cRRy-4" value="C:\projects\boot\Bootstrap" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="177" y="-570" width="590" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="WIFTYRgHfktYTLX4cRRy-5" value="C:\projects\boot\Bootstrap" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="250" width="590" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="WIFTYRgHfktYTLX4cRRy-6" value="C:\projects\boot\Bootstrap" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-708" y="-500" width="590" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="WIFTYRgHfktYTLX4cRRy-7" value="C:\projects\boot\Bootstrap" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="1000" width="590" height="590" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
